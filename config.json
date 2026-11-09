@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "reviewAfterCleared": 12,
+  "ads": {
+    "enabled": true,
+    "banner": true,
+    "interstitial": true,
+    "rewarded": true,
+    "bannerFromLevel": 3,
+    "interstitialAfterCleared": 5,
+    "levelsBetweenInterstitials": 3,
+    "interstitialMinGapSeconds": 90,
+    "interstitialMaxPerSession": 12
+  }
+}
